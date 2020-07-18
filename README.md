@@ -16,9 +16,9 @@ It took a little time to put together the formulas for the different goal ranges
 Here are the results of looking at this data.
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 * Inarguably, the most successful campaigns begin in the summer months.
-* Late Nov/Dec appears to be the worst time to launch a campaign, which makes sense because many folks will have their money tied up in holiday shopping/gifting rather than fundraising.
+* Late Nov/Dec appears to be the worst time to launch a campaign, which makes sense because many folks will have their money tied up in holiday shopping/gifting rather than fundraising. ![See the chart here](https://github.com/timbannock/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 ### What can you conclude about the Outcomes based on Goals?
-* Lower goals tend to be much more achievable.
+* Lower goals tend to be much more achievable. ![See the chart here](https://github.com/timbannock/kickstarter-analysis/blob/master/Outcomes_vs_Goal.png)
 ### What are some limitations of this dataset?
 * Because we "mashed" all years together and instead sorted by month for our analysis on launch date, we may be missing some trends with regard to larger economic changes in any given year (or more recent years).
 * We are not looking at the breakdown of individual Kickstarter campaign budgets, and so we don't know how much marketing of a Kickstarter campaign directly impacts success/failure of a campaign.
